@@ -20,7 +20,7 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
   Incident handling using Splunk with practical queries for brute force, defacement, and C2 activity.  
 
-- [Wireshark Traffic Analysis](https://github.com/7xm7/soc-incident-report-wireshark)
+- [Wireshark Traffic Analysis](https://github.com/7xm7/soc-wireshark-traffic-analysis)
 
   Traffic analysis using Wireshark for finding anomalies on the network. 
 
