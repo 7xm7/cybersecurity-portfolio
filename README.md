@@ -26,6 +26,11 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
 ---
 
+## 📂 Azure 
+- [Azure](https://github.com/7xm7/azure-secure-infrastucture-lab)
+
+---
+
 ## 📂 Cheat Sheets
 - [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
 
