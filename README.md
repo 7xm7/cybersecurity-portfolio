@@ -29,7 +29,7 @@ This repository serves as a central hub to showcase my work and guide you to eac
 ## 📂 Azure 
 - [Azure](https://github.com/7xm7/azure-secure-infrastucture-lab)
 
-  Deploy a secure and cost-controlled infrastructure in Microsoft Azure.
+  Deploying a secure and cost-controlled infrastructure in Microsoft Azure.
 
 ---
 
