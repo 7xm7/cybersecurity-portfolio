@@ -31,7 +31,9 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
   Deploying a secure and cost-controlled infrastructure in Microsoft Azure.
 
----
+  -[Azure](https://github.com/7xm7/azure-storage-security-lab).
+
+  How to secure data in Azure Storage using private access, network isolation, RBAC, and temporary shared access.
 
 ## 📂 Cheat Sheets
 - [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
