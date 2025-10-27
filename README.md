@@ -35,6 +35,12 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
   How to secure data in Azure Storage using private access, network isolation, RBAC, and temporary shared access.
 
+- [Azure Monitoring & Alerts](https://github.com/7xm7/azure-monitoring-log-analytics)
+
+  How to monitor virtual machines in Microsoft Azure using Log Analytics, Kusto Query Language (KQL), and alert rules.
+
+---
+
 ## 📂 Cheat Sheets
 - [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
 
