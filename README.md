@@ -63,7 +63,7 @@ This repository serves as a central hub to showcase my work and guide you to eac
 ---
 
 ## 🧑‍💻 About Me
-I’m Xavier and I study cybersecurity with a strong interest in SOC analysis, threat hunting, and penetration testing.  
+I’m Xavier and I study cybersecurity with a strong interest in cloud security (Azure), SOC analysis, threat hunting, and penetration testing.  
 This portfolio is part of my journey to document learning, share knowledge, and demonstrate practical skills.  
 
 ---
