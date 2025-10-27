@@ -7,6 +7,21 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
 ---
 
+## 📂 Azure 
+- [Azure Secure Infrastructure](https://github.com/7xm7/azure-secure-infrastucture-lab)
+
+  Deploying a secure and cost controlled infrastructure in Microsoft Azure.
+
+- [Azure Storage Security](https://github.com/7xm7/azure-storage-security-lab).
+
+  How to secure data in Azure Storage using private access, network isolation, RBAC, and temporary shared access.
+
+- [Azure Monitoring & Alerts](https://github.com/7xm7/azure-monitoring-log-analytics)
+
+  How to monitor virtual machines in Microsoft Azure using Log Analytics, Kusto Query Language (KQL), and alert rules.
+
+---
+
 ## 📂 SOC Incident Reports
 - [Tempest Incident Report](https://github.com/7xm7/soc-incident-report-tempest)  
 
@@ -24,22 +39,6 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
   Traffic analysis using Wireshark for finding anomalies on the network. 
 
----
-
-## 📂 Azure 
-- [Azure Secure Infrastructure](https://github.com/7xm7/azure-secure-infrastucture-lab)
-
-  Deploying a secure and cost-controlled infrastructure in Microsoft Azure.
-
-- [Azure Storage Security](https://github.com/7xm7/azure-storage-security-lab).
-
-  How to secure data in Azure Storage using private access, network isolation, RBAC, and temporary shared access.
-
-- [Azure Monitoring & Alerts](https://github.com/7xm7/azure-monitoring-log-analytics)
-
-  How to monitor virtual machines in Microsoft Azure using Log Analytics, Kusto Query Language (KQL), and alert rules.
-
----
 
 ## 📂 Cheat Sheets
 - [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
