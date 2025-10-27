@@ -39,6 +39,7 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
   Traffic analysis using Wireshark for finding anomalies on the network. 
 
+---
 
 ## 📂 Cheat Sheets
 - [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
