@@ -1,7 +1,7 @@
 # Xavier’s Cybersecurity Portfolio 🔐
 
 Welcome to my cybersecurity portfolio.  
-Here you’ll find hands-on reports, labs, and cheat sheets that I created while studying and practicing SOC analysis, incident response, and offensive/defensive security.  
+Here you’ll find hands-on reports, labs, and cheat sheets that I created while studying and practicing Azure, SOC analysis, incident response, and offensive/defensive security.  
 
 This repository serves as a central hub to showcase my work and guide you to each project.
 
