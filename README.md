@@ -18,7 +18,7 @@ This repository serves as a central hub to showcase my work and guide you to eac
 
 - [Azure Monitoring & Alerts](https://github.com/7xm7/azure-monitoring-log-analytics)
 
-  How to monitor virtual machines in Microsoft Azure using Log Analytics, Kusto Query Language (KQL), and alert rules.
+  How to monitor virtual machines in Microsoft Azure using Log Analytics, KQL and alert rules.
 
 ---
 
