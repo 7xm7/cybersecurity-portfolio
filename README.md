@@ -1,75 +1,93 @@
-# Xavier’s Cybersecurity Portfolio 🔐
+# Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio.  
-Here you’ll find hands-on reports, labs, and cheat sheets that I created while studying and practicing Azure, SOC analysis, incident response, and offensive/defensive security.  
+Hi, I’m Xavier.
 
-This repository serves as a central hub to showcase my work and guide you to each project.
+This repository serves as an index to my cybersecurity work, projects and write ups.
+My focus is on understanding **how systems fail**, especially when logic, assumptions or trust models are flawed.
 
----
-
-## 📂 Azure 
-- [Azure Secure Infrastructure](https://github.com/7xm7/azure-secure-infrastucture-lab)
-
-  Deploying a secure and cost controlled infrastructure in Microsoft Azure.
-
-- [Azure Storage Security](https://github.com/7xm7/azure-storage-security-lab).
-
-  How to secure data in Azure Storage using private access, network isolation, RBAC, and temporary shared access.
-
-- [Azure Monitoring & Alerts](https://github.com/7xm7/azure-monitoring-log-analytics)
-
-  How to monitor virtual machines in Microsoft Azure using Log Analytics, KQL and alert rules.
+I approach cybersecurity as a mix of:
+- technical analysis
+- critical thinking
+- and clear communication
 
 ---
 
-## 📂 SOC Incident Reports
-- [Tempest Incident Report](https://github.com/7xm7/soc-incident-report-tempest)  
+## Areas of focus
 
-  Analysis of a simulated incident with file hashes, IoCs, and investigation process.  
+### 🔐 Web Application Security
+Hands-on labs and write-ups focused on web application vulnerabilities, with emphasis on logic flaws rather than only payloads.
 
-- [Zeek Incident Report](https://github.com/7xm7/soc-incident-report-zeek)  
+Topics include:
+- Authentication & Access Control
+- Business Logic vulnerabilities
+- Input validation and trust issues
 
-  Network traffic analysis using Zeek logs, covering DNS anomalies, phishing, and Log4j.  
-
-- [Splunk Incident Report](https://github.com/7xm7/soc-incident-report-splunk)  
-
-  Incident handling using Splunk with practical queries for brute force, defacement, and C2 activity.  
-
-- [Wireshark Traffic Analysis](https://github.com/7xm7/soc-wireshark-traffic-analysis)
-
-  Traffic analysis using Wireshark for finding anomalies on the network. 
+📂 Repository:  
+👉 https://github.com/7xm7/web-application-security
 
 ---
 
-## 📂 Cheat Sheets
-- [Zeek Cheat Sheet](https://github.com/7xm7/zeek-cheatsheet)  
+### 🛡️ SOC & Defensive Security
+Incident analysis, traffic inspection and defensive workflows.
 
-   Practical reference for Zeek-cut commands and log analysis.  
+This area helps me understand:
+- how attacks look from the defensive side
+- how alerts, logs and network data tell a story
 
----
-
-## 📂 CTF's
-- [Pickle Rick](https://github.com/7xm7/pickle-rick-ctf)  
-
-  Simple write-up for the Pickle Rick room on TryHackMe. The goal is to find three flags in a vulnerable web server and understand basic CTF enumeration and exploitation techniques.
+📂 Repository:  
+👉 https://github.com/7xm7/soc
 
 ---
 
-## 📂 OSINT
-- [OSINT-RECON](https://github.com/7xm7/osint-recon)
+### ☁️ Cloud & Azure Security
+Hands on labs focused on Azure security concepts.
 
-  A collection of anonymized OSINT investigations for educational and ethical hacking practice.
+I study cloud security because:
+- cloud environments are the present and the future
+- attackers increasingly target misconfigurations
+- security needs to be understood end to end
+
+📂 Repository:  
+👉 https://github.com/7xm7/azure
+
+---
+
+### 🧩 CTFs & Challenges
+Capture The Flag challenges used as a playground to sharpen problem solving and offensive thinking.
+
+📂 Repository:  
+👉 https://github.com/7xm7/ctf
 
 ---
 
-## 🧑‍💻 About Me
-I’m Xavier and I study cybersecurity with a strong interest in cloud security (Azure), SOC analysis, threat hunting, and penetration testing.  
-This portfolio is part of my journey to document learning, share knowledge, and demonstrate practical skills.  
+### 🌍 Real World Scenarios
+Write ups based on real world observations and responsible disclosure.
+
+This includes:
+- business logic flaws
+- edge cases found by observation
+- practical security thinking outside labs
+
+📂 Repository:  
+👉 https://github.com/7xm7/real-world-scenarios
 
 ---
 
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/xaviermota7)
-- [Email](xaviermota7@gmail,com)
+## What I do
+
+I don’t rely only on tools or scanners.
+
+I focus on:
+- observing behavior
+- questioning assumptions
+- understanding flows
+- and breaking logic, not just features
+
+Many of the most impactful vulnerabilities are simple, but subtle.
 
 ---
+
+## Final note
+
+This portfolio reflects continuous learning.
+It’s not about knowing everything, but about knowing **how to think** when facing unfamiliar systems.
