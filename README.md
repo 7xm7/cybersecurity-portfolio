@@ -69,7 +69,7 @@ This includes:
 - practical security thinking outside labs
 
 📂 Repository:  
-👉 https://github.com/7xm7/real-world-scenarios
+👉 https://github.com/7xm7/real-world-security-cases
 
 ---
 
