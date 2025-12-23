@@ -27,6 +27,20 @@ Topics include:
 
 ---
 
+### 🌍 Real World Scenarios
+Write ups based on real world observations and responsible disclosure.
+
+This includes:
+- business logic flaws
+- edge cases found by observation
+- practical security thinking outside labs
+
+📂 Repository:  
+👉 https://github.com/7xm7/real-world-security-cases
+
+---
+
+
 ### 🛡️ SOC & Defensive Security
 Incident analysis, traffic inspection and defensive workflows.
 
@@ -58,18 +72,6 @@ Capture The Flag challenges used as a playground to sharpen problem solving and 
 📂 Repository:  
 👉 https://github.com/7xm7/ctf
 
----
-
-### 🌍 Real World Scenarios
-Write ups based on real world observations and responsible disclosure.
-
-This includes:
-- business logic flaws
-- edge cases found by observation
-- practical security thinking outside labs
-
-📂 Repository:  
-👉 https://github.com/7xm7/real-world-security-cases
 
 ---
 
