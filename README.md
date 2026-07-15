@@ -1,9 +1,10 @@
 # Cybersecurity Portfolio
 
-Hi, I’m Xavier.
+Hi, 
+
+I’m Xavier.
 
 This repository serves as an index to my cybersecurity work, projects and write ups.
-My focus is on understanding **how systems fail**, especially when logic, assumptions or trust models are flawed.
 
 I approach cybersecurity as a mix of:
 - technical analysis
@@ -40,6 +41,14 @@ This includes:
 
 ---
 
+### 🤖 Artificial Intelligence 
+Projects using AI
+
+📂 Repositories:
+👉 https://github.com/7xm7/ai-powered-soc
+👉 https://github.com/7xm7/active-directory-ransomware-killchain
+
+---
 
 ### 🛡️ SOC & Defensive Security
 Incident analysis, traffic inspection and defensive workflows.
@@ -71,25 +80,3 @@ Capture The Flag challenges used as a playground to sharpen problem solving and 
 
 📂 Repository:  
 👉 https://github.com/7xm7/ctf
-
-
----
-
-## What I do
-
-I don’t rely only on tools or scanners.
-
-I focus on:
-- observing behavior
-- questioning assumptions
-- understanding flows
-- and breaking logic, not just features
-
-Many of the most impactful vulnerabilities are simple, but subtle.
-
----
-
-## Final note
-
-This portfolio reflects continuous learning.
-It’s not about knowing everything, but about knowing **how to think** when facing unfamiliar systems.
